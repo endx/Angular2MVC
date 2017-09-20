@@ -27,11 +27,6 @@ namespace Angular2MVC.Controllers
             return View();
         }
 
-        public ActionResult Update()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
+        
     }
 }
